@@ -1,4 +1,4 @@
-public class XYZ {
+public class xyz {
     public static void main(String[] args) {
         // Initialize the string
         String str = "Hello, World!";
